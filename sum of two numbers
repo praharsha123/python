@@ -1,0 +1,7 @@
+# sumof two numbers
+first_number = 1 + 1
+print(first_number)
+second_number = 2 + 7
+print(second_number)
+sum = first_number + second_number
+Sum_of_two_numbers = print(sum)
